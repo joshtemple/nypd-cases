@@ -11,7 +11,7 @@ The file `nypd-discipline.csv` comes from BuzzFeed and contains the names of eac
 ### How do I configure and run the scraper?
 Install the requirements using `pip install -r requirements.txt`.
 
-Since the scraper uses Selenium to extract the text data, you will need a web driver of some kind. The current configuration **assumes you have Firefox installed, as well as geckodriver downloaded and placed in a folder `/driver`.** If not, you will need to download Firefox and geckodriver, or you will need to configure the Python script to use a different web driver. See [here](https://www.seleniumhq.org/download/) for links to web drivers for different browsers.
+Since the scraper uses Selenium to extract the text data, you will need a web driver of some kind. The current configuration **assumes you have Firefox installed and have geckodriver downloaded and added to your PATH.** If not, you will need to download Firefox and geckodriver, or you will need to configure the Python script to use a different web driver. More information on configuring Selenium [here](https://pypi.org/project/selenium/). See [here](https://www.seleniumhq.org/download/) for links to web drivers for different browsers.
 
 Once you've installed requirements, Firefox, and geckodriver (or your preferred browser and driver), you can run `scrape.py` to download. The script will take some time to run, as there are over 2,000 case files to download.
 
