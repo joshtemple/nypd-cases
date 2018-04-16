@@ -1,0 +1,421 @@
+1523889709439	geckodriver	INFO	geckodriver 0.19.1
+1523889709445	geckodriver	INFO	Listening on 127.0.0.1:61755
+1523889710570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.x0FnOkr90XeF"
+*** You are running in headless mode.
+1523889711598	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:41:52.503 plugin-container[22120:15979809] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523889712924	Marionette	INFO	Listening on port 61770
+1523889712968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523889713017	Marionette	DEBUG	Register listener.js for window 2147483649
+1523889713049	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523889713256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523889713256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523889713583	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523889713599	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523889908475	geckodriver	INFO	geckodriver 0.19.1
+1523889908480	geckodriver	INFO	Listening on 127.0.0.1:62816
+1523889909559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.n8eSqyq8K9Z2"
+*** You are running in headless mode.
+1523889910125	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:45:10.886 plugin-container[22174:15982657] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523889911232	Marionette	INFO	Listening on port 62831
+1523889911325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523889911377	Marionette	DEBUG	Register listener.js for window 2147483649
+1523889911417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523889911672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523889911672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523889912028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523889912063	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890086799	geckodriver	INFO	geckodriver 0.19.1
+1523890086806	geckodriver	INFO	Listening on 127.0.0.1:63750
+1523890087876	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.B8U7LleHm3kC"
+*** You are running in headless mode.
+1523890088458	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:48:09.195 plugin-container[22221:15985223] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890089480	Marionette	INFO	Listening on port 63765
+1523890089545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890089603	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890089626	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890089827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890089827	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890090155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890090192	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890094459	geckodriver	INFO	geckodriver 0.19.1
+1523890094466	geckodriver	INFO	Listening on 127.0.0.1:63864
+1523890095535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.aApDNR0Z8uHW"
+*** You are running in headless mode.
+1523890095996	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:48:16.783 plugin-container[22229:15985495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890097204	Marionette	INFO	Listening on port 63880
+1523890097297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890097359	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890097397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890097537	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890097538	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890097752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890097812	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890098078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890123480	geckodriver	INFO	geckodriver 0.19.1
+1523890123487	geckodriver	INFO	Listening on 127.0.0.1:64074
+1523890124579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.HaHt7MS5YDva"
+*** You are running in headless mode.
+1523890125058	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:48:45.819 plugin-container[22239:15986005] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890126137	Marionette	INFO	Listening on port 64089
+1523890126157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890126209	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890126233	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890126342	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890126342	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890126570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890126604	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890130425	geckodriver	INFO	geckodriver 0.19.1
+1523890130430	geckodriver	INFO	Listening on 127.0.0.1:64186
+1523890131509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.uLzpgulFQLr1"
+*** You are running in headless mode.
+1523890132074	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:48:52.799 plugin-container[22242:15986200] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890133127	Marionette	INFO	Listening on port 64201
+1523890133184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890133249	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890133288	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890133388	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890133388	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890133653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890133692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418978-nypd-cases-393.html"
+1523890133951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890710268	geckodriver	INFO	geckodriver 0.19.1
+1523890710274	geckodriver	INFO	Listening on 127.0.0.1:50297
+1523890711386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.FTqFPFstzxEq"
+*** You are running in headless mode.
+1523890711936	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:58:32.649 plugin-container[22385:15993501] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890712977	Marionette	INFO	Listening on port 50313
+1523890713055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890713107	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890713412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890713451	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890713451	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890713527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assets.documentcloud.org/documents/4419296/nypd-cases-467.pdf"
+1523890713630	Marionette	DEBUG	Received DOM event "pageshow" for "https://assets.documentcloud.org/documents/4419296/nypd-cases-467.pdf"
+1523890745595	geckodriver	INFO	geckodriver 0.19.1
+1523890745606	geckodriver	INFO	Listening on 127.0.0.1:50531
+1523890746685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.0ossxBSfqONZ"
+*** You are running in headless mode.
+1523890747413	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:59:08.195 plugin-container[22397:15994207] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890748575	Marionette	INFO	Listening on port 50546
+1523890748659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890748707	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890748844	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890748879	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890748879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890748985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assets.documentcloud.org/documents/4419296/nypd-cases-467.pdf"
+1523890749042	Marionette	DEBUG	Received DOM event "pageshow" for "https://assets.documentcloud.org/documents/4419296/nypd-cases-467.pdf"
+1523890765431	geckodriver	INFO	geckodriver 0.19.1
+1523890765439	geckodriver	INFO	Listening on 127.0.0.1:50649
+1523890766512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.quOF9YKUacPl"
+*** You are running in headless mode.
+1523890767019	Marionette	INFO	Enabled via --marionette
+2018-04-16 10:59:27.713 plugin-container[22401:15994623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890768054	Marionette	INFO	Listening on port 50660
+1523890768097	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890768150	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890768251	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890768492	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890768493	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890768699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890768753	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890768996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523890823127	geckodriver	INFO	geckodriver 0.19.1
+1523890823142	geckodriver	INFO	Listening on 127.0.0.1:50899
+1523890824223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.3ZfoCJ9KWPjB"
+*** You are running in headless mode.
+1523890824789	Marionette	INFO	Enabled via --marionette
+2018-04-16 11:00:25.535 plugin-container[22436:15996132] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890825851	Marionette	INFO	Listening on port 50912
+1523890825924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890825988	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890826178	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890826299	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890826300	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890826570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890826589	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890826864	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22436, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1523890834828	geckodriver	INFO	geckodriver 0.19.1
+1523890834838	geckodriver	INFO	Listening on 127.0.0.1:50986
+1523890835909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.J9wkJZcbRZli"
+*** You are running in headless mode.
+1523890836388	Marionette	INFO	Enabled via --marionette
+2018-04-16 11:00:37.085 plugin-container[22443:15996934] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890837458	Marionette	INFO	Listening on port 50997
+1523890837483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890837533	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890837621	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890837954	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890837954	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890838153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890838208	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890838447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890838520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890838565	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890838565	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890838691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890838729	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890838965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890839172	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890839212	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890839212	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890839331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890839350	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890839572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890839700	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890839736	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890839736	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890839864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890839884	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890840110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890840240	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890840271	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890840271	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890840390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890840415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890840640	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890840763	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890840794	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890840794	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890840918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890840937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890841161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890841310	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890841344	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890841344	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890841466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890841483	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890841703	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890841822	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890841856	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890841856	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890841981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890842002	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890842230	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890842351	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890842384	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890842384	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890842519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890842543	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890842768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890842892	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890842930	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890842930	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890843101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890843139	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890843376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890844100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890844133	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890844134	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890844249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890844268	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890844499	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890844737	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890844782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890844782	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890844903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890844921	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890845204	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890845747	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890845786	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890845786	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890845954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890845987	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890846228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890846349	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890846384	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890846384	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890846554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890846581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890846808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890846909	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890846943	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890846943	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890847072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890847092	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890847320	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890847457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890847490	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890847491	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890847613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890847630	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890847853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890848186	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890848220	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890848220	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890848334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890848352	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890848577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890848714	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890848747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890848747	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890848891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890848920	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890849160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890849293	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890849331	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890849331	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890849455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890849477	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890849701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890850241	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890850274	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890850274	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890850401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418854-nypd-cases-052.html"
+1523890850419	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418854-nypd-cases-052.html"
+1523890850692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1523890876382	geckodriver	INFO	geckodriver 0.19.1
+1523890876400	geckodriver	INFO	Listening on 127.0.0.1:51192
+1523890876469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-profile" "/var/folders/x2/8dh0r_t90hg685kw76pjp50xm91p03/T/rust_mozprofile.6DRp13C59d47"
+*** You are running in headless mode.
+1523890877030	Marionette	INFO	Enabled via --marionette
+2018-04-16 11:01:17.785 plugin-container[22465:15999379] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1523890878133	Marionette	INFO	Listening on port 51201
+1523890878159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523890878217	Marionette	DEBUG	Register listener.js for window 2147483649
+1523890878616	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1523890878801	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1523890878801	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1523890879050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890879106	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890879353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890879507	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890879547	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890879547	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419296-nypd-cases-467.html"
+1523890879691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890879718	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890879944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890880127	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890880159	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890880160	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418901-nypd-cases-321.html"
+1523890880284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890880319	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890880543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890880667	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890880698	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890880699	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418988-nypd-cases-351.html"
+1523890880835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890880851	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890881073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890881163	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890881197	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890881198	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418920-nypd-cases-526.html"
+1523890881320	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890881341	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890881567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890881685	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890881717	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890881717	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418935-nypd-cases-054.html"
+1523890881854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890881872	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890882099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890882211	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890882243	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890882243	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419061-nypd-cases-141.html"
+1523890882374	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890882395	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890882618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890882711	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890882747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890882747	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419030-nypd-cases-024.html"
+1523890882885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890882906	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890883128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890883222	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890883255	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890883255	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418833-nypd-cases-050.html"
+1523890883393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890883419	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890883651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890883836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890883868	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890883868	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418918-nypd-cases-268.html"
+1523890883995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890884011	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890884232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890884355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890884388	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890884388	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418899-nypd-cases-490.html"
+1523890884520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890884537	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890884763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890884881	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890884913	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890884913	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419267-nypd-cases-112.html"
+1523890885038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890885054	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890885276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890885413	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890885446	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890885446	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419109-nypd-cases-167.html"
+1523890885588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890885606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890885837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890885984	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890886030	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890886031	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419329-nypd-cases-470.html"
+1523890886209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890886239	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890886467	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890886622	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890886654	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890886654	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419249-nypd-cases-098.html"
+1523890886807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890886827	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890887056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890887189	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890887221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890887221	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419056-nypd-cases-425.html"
+1523890887353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890887371	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890887597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890887725	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890887756	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890887756	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418896-nypd-cases-123.html"
+1523890887883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890887902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890888129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890888320	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890888351	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890888351	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419299-nypd-cases-117.html"
+1523890888483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890888499	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890888723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890889047	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890889079	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890889079	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4418972-nypd-cases-026.html"
+1523890889209	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890889227	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890889453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1523890889580	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890889612	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890889612	Marionette	DEBUG	Received DOM event "unload" for "https://www.documentcloud.org/documents/4419236-nypd-cases-065.html"
+1523890889746	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.documentcloud.org/documents/4418854-nypd-cases-052.html"
+1523890889761	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.documentcloud.org/documents/4418854-nypd-cases-052.html"
+1523890889986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown

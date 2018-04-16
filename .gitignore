@@ -1,0 +1,5 @@
+*.ipynb
+*.pyc
+pdf/
+txt/
+.DS_Store
