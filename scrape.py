@@ -30,7 +30,7 @@ def download_text(browser, url, id_):
         f.write(text)
 
 if __name__ == '__main__':
-    driver_path = os.path.join(os.getcwd(), 'geckodriver')
+    driver_path = os.path.join(os.getcwd(), 'driver', 'geckodriver')
     options = Options()
     options.add_argument('-headless')
     browser = webdriver.Firefox(firefox_options=options, executable_path=driver_path)
