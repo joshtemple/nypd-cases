@@ -38,7 +38,7 @@ if __name__ == '__main__':
     os.makedirs('txt', exist_ok=True)
 
     df = pd.read_csv('nypd-discipline.csv')
-    urls = df['URL'].unique()[:20]
+    urls = df['URL'].unique()
 
     print('Downloading text and PDF data from Buzzfeed...')
     for url in urls:
