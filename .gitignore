@@ -2,5 +2,5 @@
 *.pyc
 pdf/
 txt/
-driver/
+geckodriver.log
 .DS_Store

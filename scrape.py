@@ -33,7 +33,7 @@ if __name__ == '__main__':
     driver_path = os.path.join(os.getcwd(), 'driver', 'geckodriver')
     options = Options()
     options.add_argument('-headless')
-    browser = webdriver.Firefox(firefox_options=options, executable_path=driver_path)
+    browser = webdriver.Firefox(firefox_options=options)
     os.makedirs('pdf', exist_ok=True)
     os.makedirs('txt', exist_ok=True)
 
